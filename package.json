@@ -1,0 +1,9 @@
+{
+  "name": "npm_tianzun",
+  "version": "1.0.0",
+  "description": "个人 npmjs 源码仓库",
+  "main": "index.js",
+  "repository": "https://github.com/Wxiaosheng/npm_tianzun.git",
+  "author": "xiaosheng <287915338@qq.com>",
+  "license": "MIT"
+}
