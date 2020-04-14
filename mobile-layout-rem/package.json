@@ -1,0 +1,24 @@
+{
+  "name": "mobile-layout-rem",
+  "version": "1.0.2",
+  "description": "移动端rem布局",
+  "main": "lib/mobilelayoutrem.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "prepublish": "webpack",
+    "release": "npm publish . --access=public"
+  },
+  "keywords": [
+    "rem布局"
+  ],
+  "author": "tianzun",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
