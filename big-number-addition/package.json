@@ -19,5 +19,10 @@
   "keywords": [
     "大数字求和",
     "big number"
-  ]
+  ],
+  "homepage": "https://github.com/Wxiaosheng/npm_tianzun#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wxiaosheng/npm_tianzun.git"
+  }
 }

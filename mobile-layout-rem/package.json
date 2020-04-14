@@ -20,5 +20,10 @@
     "babel-loader": "^8.1.0",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
+  },
+  "homepage": "https://github.com/Wxiaosheng/npm_tianzun#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wxiaosheng/npm_tianzun.git"
   }
 }
