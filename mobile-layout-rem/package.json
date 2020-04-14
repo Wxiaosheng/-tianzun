@@ -1,6 +1,6 @@
 {
   "name": "mobile-layout-rem",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "移动端rem布局",
   "main": "lib/mobilelayoutrem.min.js",
   "scripts": {
