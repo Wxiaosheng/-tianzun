@@ -1,0 +1,22 @@
+{
+  "name": "auto-webpack-entry-plugin",
+  "version": "1.0.0",
+  "description": "webpack 多页打包工具库",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf ./lib && webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-loader": "^8.1.0",
+    "glob": "^7.1.6",
+    "html-webpack-plugin": "^4.2.0",
+    "react-dev-utils": "^10.2.1"
+  }
+}
