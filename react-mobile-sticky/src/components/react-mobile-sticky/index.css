@@ -1,0 +1,8 @@
+.sticky-container {
+  position: relative;
+}
+.isSticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
