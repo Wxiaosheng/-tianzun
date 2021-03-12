@@ -17,6 +17,6 @@
     "babel-loader": "^8.1.0",
     "glob": "^7.1.6",
     "html-webpack-plugin": "^4.2.0",
-    "react-dev-utils": "^10.2.1"
+    "react-dev-utils": "^11.0.4"
   }
 }
